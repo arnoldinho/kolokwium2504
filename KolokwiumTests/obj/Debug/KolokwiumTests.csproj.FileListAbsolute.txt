@@ -1,0 +1,8 @@
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\bin\Debug\KolokwiumTests.dll
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\bin\Debug\KolokwiumTests.pdb
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\bin\Debug\Kolokwium.exe
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\bin\Debug\Kolokwium.pdb
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\obj\Debug\KolokwiumTests.csprojResolveAssemblyReference.cache
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\obj\Debug\KolokwiumTests.dll
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\KolokwiumTests\obj\Debug\KolokwiumTests.pdb

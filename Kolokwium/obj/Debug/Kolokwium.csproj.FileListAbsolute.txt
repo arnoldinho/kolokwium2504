@@ -1,0 +1,6 @@
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\bin\Debug\Kolokwium.pdb
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\obj\Debug\Kolokwium.csprojResolveAssemblyReference.cache
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\obj\Debug\Kolokwium.exe
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\obj\Debug\Kolokwium.pdb
